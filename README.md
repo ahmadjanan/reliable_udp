@@ -1,1 +1,1 @@
-# reliable_udp
+# Reliable User Datagram Protocol (RUDP) implemented in C
